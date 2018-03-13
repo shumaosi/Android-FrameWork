@@ -10,6 +10,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/1.builder" />
             <option value="$PROJECT_DIR$/2.singleton" />
+            <option value="$PROJECT_DIR$/3.aop" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/builder" />
           </set>
